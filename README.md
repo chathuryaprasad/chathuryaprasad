@@ -26,7 +26,7 @@ Faculty of Engineering. 👨‍🎓
 
 Feel free to explore my repositories and don't hesitate to connect! Let's code and build amazing things together. 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathurya&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPrasa&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Cprasa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPrasa&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/CPrasa/github-readme-stats)
 
 
