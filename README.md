@@ -25,3 +25,5 @@ Faculty of Engineering. 👨‍🎓
 - Email: chathuryaprasad@gmail.com
 
 Feel free to explore my repositories and don't hesitate to connect! Let's code and build amazing things together. 🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathurya)](https://github.com/anuraghazra/github-readme-stats)
