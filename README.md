@@ -25,7 +25,7 @@ I'm Chathurya Prasad Aralugaswaththa, an undergraduate student pursuing a degree
 
 - [LinkedIn](https://www.linkedin.com/in/chathurya-prasad-3b4410252/)
 - [Instagram](https://www.instagram.com/crprasa/)
-- Email: chathuryaprasad@gmail.com
+- Email: chathuryaprasad847@gmail.com
 
 Feel free to explore my repositories and don't hesitate to connect! Let's code and build amazing things together. 🚀
 
