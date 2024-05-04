@@ -5,7 +5,7 @@ I'm Chathurya Prasad Aralugaswaththa, an undergraduate student pursuing a degree
 ### 💻 About Me
 
 - 🌐 I specialize in web application development using the MERN stack (MongoDB, Express.js, React.js, Node.js), and have experience with SQL and Spring Boot.
-- 🧠 I am passionate about machine learning, AI, and data science.
+- 🧠 I am passionate about machine learning, AI, and deep learning, and love exploring their applications.
 - 🖥️ I also enjoy working on desktop application development projects.
 - 📱 Mobile app development is another area of expertise for me, particularly using Flutter and Firebase.
 - 🎨 I have a passion for UI/UX design and creating seamless and visually appealing user experiences.
@@ -18,6 +18,7 @@ I'm Chathurya Prasad Aralugaswaththa, an undergraduate student pursuing a degree
 - **Database:** SQL, MongoDB, Firebase
 - **Mobile Development:** Flutter
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras
+- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
 - **Other Technologies:** Git
 
