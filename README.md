@@ -30,7 +30,7 @@ I'm Chathurya Prasad Aralugaswaththa, an undergraduate student pursuing a degree
 
 Feel free to explore my repositories and don't hesitate to connect! Let's code and build amazing things together. 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPrasa&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chathuryaprasad&show_icons=true&theme=transparent)
 <!-- Add an empty line for spacing -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuryaprasad&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/chathuryaprasad/github-readme-stats)
