@@ -33,4 +33,4 @@ Feel free to explore my repositories and don't hesitate to connect! Let's code a
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPrasa&show_icons=true&theme=transparent)
 <!-- Add an empty line for spacing -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPrasa&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/CPrasa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuryaprasad&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/chathuryaprasad/github-readme-stats)
