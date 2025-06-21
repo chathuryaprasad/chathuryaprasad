@@ -30,17 +30,15 @@ I'm **Chathurya Prasad Aralugaswaththa**, an undergraduate student in **Computer
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 #### ☁️ DevOps / Cloud Computing
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 #### 🔐 Blockchain
 ![Hyperledger Fabric](https://img.shields.io/badge/-Hyperledger%20Fabric-2DABB1?logo=hyperledger&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 
 ---
 
@@ -50,7 +48,6 @@ I'm **Chathurya Prasad Aralugaswaththa**, an undergraduate student in **Computer
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuryaprasad&layout=donut&theme=dark)](https://github.com/chathuryaprasad/github-readme-stats)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=chathuryaprasad&theme=rogue)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chathuryaprasad&theme=github_dark" />
