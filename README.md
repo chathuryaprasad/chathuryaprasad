@@ -1,36 +1,69 @@
 ## Hi there! 👋
 
-I'm Chathurya Prasad Aralugaswaththa, an undergraduate student pursuing a degree in Computer Engineering at the University of Ruhuna, Faculty of Engineering. 👨‍🎓
+I'm **Chathurya Prasad Aralugaswaththa**, an undergraduate student in **Computer Engineering** at the University of Ruhuna. I'm passionate about building intelligent systems and scalable software that make a real-world impact.
 
-### 💻 About Me
+---
 
-- 🌐 I specialize in web application development using the MERN stack (MongoDB, Express.js, React.js, Node.js), and have experience with SQL and Spring Boot.
-- 🧠 I am passionate about machine learning, AI, and deep learning, and love exploring their applications.
-- 🖥️ I also enjoy working on desktop application development projects.
-- 📱 Mobile app development is another area of expertise for me, particularly using Flutter and Firebase.
-- 🎨 I have a passion for UI/UX design and creating seamless and visually appealing user experiences.
+### 🧠 Core Interests
 
+- 🤖 **Artificial Intelligence & Machine Learning** — building smart solutions with ML, DL, and AI agents
+- 🧩 **LangChain & LangGraph** — developing AI-powered apps and autonomous agents
+- 🛠️ **Software Development** — full-stack applications with robust architecture
+- 🔗 **Blockchain** — secure, decentralized systems for real-world applications
 
-### 🚀 Skills
+---
 
-- **Web Development:** MERN Stack, React.js, HTML, CSS, JavaScript
-- **Backend Development:** Node.js, Express.js, Spring Boot
-- **Database:** SQL, MongoDB, Firebase
-- **Mobile Development:** Flutter
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras
-- **Deep Learning:** Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
-- **Other Technologies:** Git
+### 🚀 Skill Set
 
-### 📫 Get in Touch
+#### 🧠 AI / Machine Learning / Computer Vision
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-black?logo=data:image/svg+xml;base64,...)
 
-- [LinkedIn](https://www.linkedin.com/in/chathurya-prasad-3b4410252/)
-- [Instagram](https://www.instagram.com/crprasa/)
-- Email: chathuryaprasad847@gmail.com
+#### 💻 Software Engineering
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
-Feel free to explore my repositories and don't hesitate to connect! Let's code and build amazing things together. 🚀
+#### ☁️ DevOps / Cloud Computing
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chathuryaprasad&show_icons=true&theme=transparent)
-<!-- Add an empty line for spacing -->
+#### 🔐 Blockchain
+![Hyperledger Fabric](https://img.shields.io/badge/-Hyperledger%20Fabric-2DABB1?logo=hyperledger&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuryaprasad&layout=donut&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/chathuryaprasad/github-readme-stats)
+---
+
+### 📊 GitHub Analytics
+
+![Chathurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chathuryaprasad&show_icons=true&theme=transparent)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuryaprasad&layout=donut&theme=dark)](https://github.com/chathuryaprasad/github-readme-stats)
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=chathuryaprasad&theme=rogue)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chathuryaprasad&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chathuryaprasad&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chathuryaprasad&theme=github_dark&utcOffset=+5.5" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/chathurya-prasad-3b4410252/)
+- [📸 Instagram](https://www.instagram.com/crprasa/)
+- 📧 Email: **chathuryaprasad847@gmail.com**
+
+Let’s innovate, build, and solve together! 🚀
